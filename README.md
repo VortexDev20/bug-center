@@ -1,4 +1,4 @@
-# bug-center
+# Bug-Center
 Bug-Center est un serveur discord pour vérifier votre bot discord :D
 # Description
 ▬ __**[FR] Bug Center**__ ▬
