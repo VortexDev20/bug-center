@@ -17,5 +17,3 @@ Une équipe de vérificateurs talentueuse et qui s'agrandit celons les besoins d
 
 ✸ Ton ticket d'entrée ➟ https://discord.gg/Drbgufc
 
-# ScreenShots
-![Pub](https://gph.is/g/ZPqepWV "Pub")
